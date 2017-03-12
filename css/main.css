@@ -1,0 +1,57 @@
+body{
+	background-color:black;
+	font-size: 1.3em;
+	font-family: 'Alegreya', serif;
+  max-width: 100%;
+  overflow-x: hidden;
+
+}
+
+#header, #contact, #about{
+	background-color: #575757;
+  margin: 0;
+}
+#about, .list, #services{
+	background-color:#fffff0;
+  margin: 0;
+}
+
+#process, #copyright{
+  background-color: black;
+  margin: 0;
+  color: white;
+}
+h1{
+	font-size: 30px;
+}
+li{
+	list-style: none;
+}
+
+a, a:hover{
+	color:#0eb3d6;
+  text-transform: uppercase;
+}
+.logo, .step, .section{
+	font-family: 'Diplomata SC', cursive;
+	color:white;
+}
+.color, .icon, .section{
+	color: #0eb3d6;
+}
+.nocolor{
+	color:white;
+}
+#copyright{
+  font-size: 1.3em;
+}
+
+#label{
+  font-family: 'Alegreya', serif;
+}
+
+.step1{
+    font-family: 'Diplomata SC', cursive;
+    color: black;
+
+}
